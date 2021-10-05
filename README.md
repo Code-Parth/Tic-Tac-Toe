@@ -7,6 +7,6 @@
 
 Use [Assets.zip](https://github.com/ParthSofts/Tic-Tac-Toe/blob/master/Assets.zip) for Sound File (.wav) and Icon (.ico)
 
-# Advanced-Tic-Tac-Toe
+# Advanced-Tic-Tac-Toe YouTube Playlist
 
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLtjy7Ao6vpSG-rl3geHlVOlUYX8q1oJoP)
